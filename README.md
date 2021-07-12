@@ -23,7 +23,7 @@ func GetBio() Bio {
 		"- ⚡ Quick bio:":                    ""
 		"- 🔭 I’m currently working on":      "I’m currently doing a Full-Stack Web Developer",
 		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "JS, React, Node.js, Typescript related projects",
+		"- 👯 I’m looking to collaborate on": "JS, React, Node.js, Typescript, SASS related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		
 	}
